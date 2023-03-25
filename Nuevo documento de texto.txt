@@ -1,0 +1,7 @@
+assets
+logs
+packages
+projectsettings
+usersettings
+cs.project
+readme.md
